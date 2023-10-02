@@ -26,11 +26,11 @@ The repository is organized into folders corresponding to each problem set. Each
 
 ```
 CS50-Python/
-    ├── pset1/
+    ├── pset0/
     │   ├── indoor.py
     │   ├── playback.py
     │   └── ...
-    ├── pset2/
+    ├── pset1/
     │   ├── deep.py
     │   ├── bank.py
     │   └── ...
@@ -83,4 +83,6 @@ This repository does not have a specific license, which means it is open for edu
 
 Enjoy your journey through Harvard's CS50's Introduction to Programming with Python! If you have any questions or need assistance, feel free to open an issue or contact me. 
 
-Thanks ~Huzaifa!
+<p align="right">
+        Thanks ~Huzaifa!
+</p>
