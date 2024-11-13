@@ -1,4 +1,10 @@
-# CS50P Repository Readme
+# CS50P Python Problem Solvers' Guide
+
+<p align="center"> <img src="https://github.com/botzaifa/CS50P/blob/main/Week_9/Final_Project/logo.png" alt="CS50P Logo" width="300"> </p>
+
+**Certificate**: [View my CS50P Certification](https://certificates.cs50.io/9c8f6638-aa8e-4e5b-8588-c07f44a7c258.pdf?size=letter)  
+
+
 
 This repository contains solutions to the problem sets from Harvard's CS50's Introduction to Programming with Python certification course. If you are taking this course or interested in Python programming challenges, you may find this repository useful. 
 
