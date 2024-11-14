@@ -42,7 +42,7 @@ def write_to_excel(sentiments):
     wb.save('news_headlines.xlsx')
 
 def main():
-    api_key = '91169448c3814262a7e01b3fd0a90f4f'
+    # api_key = 'KEY' # Replace with your actual API key
     topic = input('Enter a topic: ')
     headlines = fetch_news_headlines(api_key, topic)
     sentiments = analyze_sentiment(headlines)
